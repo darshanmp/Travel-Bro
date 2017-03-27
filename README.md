@@ -40,8 +40,8 @@ Presentation Link: http://slides.com/manjunathb/deck-4/fullscreen
 
 Travel Bro iOS App
 Project Proposal
-Darshan Masti Prakash. (SUID: 223909540)
-Manjunath Babu. (SUID: 515114647)
+Darshan Masti Prakash.
+Manjunath Babu.
 Objective: Build an IOS Application that helps a user discover people
 who like to travel together to new places and also hire a local travel
 guide.
