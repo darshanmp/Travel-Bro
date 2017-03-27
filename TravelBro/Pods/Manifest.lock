@@ -1,0 +1,16 @@
+PODS:
+  - BTNavigationDropdownMenu (0.3)
+  - Firebase (2.5.1)
+  - GoogleMaps (1.13.1)
+
+DEPENDENCIES:
+  - BTNavigationDropdownMenu
+  - Firebase (>= 2.5.1)
+  - GoogleMaps
+
+SPEC CHECKSUMS:
+  BTNavigationDropdownMenu: c36d20785253699046fdd295698c24b1d1c18f53
+  Firebase: 3565ea88b830f28f2c77ecc524622bc71a20d085
+  GoogleMaps: 8935220056a6cc8e9ca298b4da4ae530620aa71b
+
+COCOAPODS: 0.39.0
